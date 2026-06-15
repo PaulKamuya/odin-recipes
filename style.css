@@ -4,5 +4,22 @@
   font-family: arial;
 }
 
+/*landing page*/
 
+.landing-title{
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 16px;
+}
 
+.landing-recipes{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/*Other*/
+
+a{
+  color: black;
+  text-decoration: none;
+}
